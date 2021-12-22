@@ -1,4 +1,4 @@
-# 🎲 IKEv2-setup
+# IKEv2-setup
 
 ## Table of contents
 
